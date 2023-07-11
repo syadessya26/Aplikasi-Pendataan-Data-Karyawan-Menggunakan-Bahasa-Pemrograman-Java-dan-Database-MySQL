@@ -1,4 +1,4 @@
-# [Project Kuliah] Aplikasi Pendataan DATA Karyawan Menggunakan Bahasa Pemrograman Java dan Database MySQL
+# [Project Kuliah] Aplikasi Pendataan Data Karyawan Menggunakan Bahasa Pemrograman Java dan Database MySQL
 
 Aplikasi ini merupakan aplikasi crud yang digunakan untuk mendata data-data karyawan serta aplikasi sebagai syarat penyelesaian mata kuliah Pemrograman Java. Dalam pembuatan aplikasi ini menggunakan bahasa pemrograman java GUI dan penggunaan MySQL sebagai databasenya.
 
